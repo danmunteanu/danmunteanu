@@ -28,12 +28,12 @@ I have professional experience with both desktop and web development.
 ## Blogging
 Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical and some personal.
 Here are a few of my best articles:
-- [Install ffmpeg for yt-dlp](https://www.realityframeworks.com/how-to-install-ffmpeg-for-yt-dlp/)
+- [Installing ffmpeg for yt-dlp](https://www.realityframeworks.com/how-to-install-ffmpeg-for-yt-dlp/)
 - [Installing boost for msvc and gcc on Windows](https://www.realityframeworks.com/install-boost-on-windows-for-msvc-gcc/)
-- [Creating a Metro Station announcer in Chuck](https://www.realityframeworks.com/metro-stations-announcer-chuck/)
+- [Creating a Metro Station announcer with Chuck](https://www.realityframeworks.com/metro-stations-announcer-chuck/)
 - [Creating a video from a single image with ffmpeg](https://www.realityframeworks.com/ffmpeg-create-video-from-single-image/)
-- [Notepad++ is awesome!](https://www.realityframeworks.com/notepad-plus-plus-is-awesome/)
-- [An app for adding YAML to markdown files](https://www.realityframeworks.com/csharp-add-yaml-to-files/)
+- [Why Notepad++ is awesome!](https://www.realityframeworks.com/notepad-plus-plus-is-awesome/)
+- [App journal - Adding YAML to markdown files](https://www.realityframeworks.com/csharp-add-yaml-to-files/)
 
 ## Courses
-- [C# beginner course: Build Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+- [C# beginner course: Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
