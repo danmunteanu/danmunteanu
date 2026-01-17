@@ -3,14 +3,18 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve been building.
 ## My Best Repo's:
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple raytracing app written in C# for Windows desktop
 - [MemphisNow](https://github.com/danmunteanu/MEMPHIS_NOW) - An app written in C++ and Qt to rename mp3 files in a visual way
-- [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - A very simple C# app to archive saves folder for No Rest For The Wicked (Breach Refined). *I wrote this because sometimes the game fails or might corrupt the saves.*
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
+- [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - A very simple C# app to archive saves folder for No Rest For The Wicked (Breach Refined). *I wrote this because sometimes the game fails or might corrupt the saves.*
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my C# beginner Udemy course
 
 ## Software Development:
-Basically I'm an object-oriented programmer with a interest for many more things, such as music production, voiceovers and audio editing. 
-My main professional experience is with software development, mainly desktop, but also web. 
+Basically I'm an object-oriented developer with an interest for many more things, such as:
+- Music production
+- Voiceovers 
+- Audio editing
+
+My main professional experience is with software development, both desktop and web. 
 
 ### For desktop application development, I use 
 - C# with .NET Core to create WinForms apps
