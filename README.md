@@ -11,19 +11,14 @@ Basically I'm into object-oriented programming.
 I have professional experience with both desktop and web development. 
 
 ### For desktop application development, I use 
-- C# with .NET Core
+- C# with .NET Core to create WinForms apps
 
 ### For web development, I use:
-- Laravel with PHP
-- Vue.js
-- Filament
-- Tailwind
-- Bootstrap
-
-## Games I play
-- Path Of Exile 1
-- Path Of Exile 2
-- No Rest For The Wicked
+- Laravel with PHP as the base for all my web apps
+- Vue.js for web ui
+- Filament for server-side UI rendering
+- Tailwind or Bootstrap for layouting and styling
+- three.js to create 3D web apps
 
 ## Blogging
 Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical and some personal.
@@ -37,3 +32,8 @@ Here are a few of my best articles:
 
 ## Courses
 - [C# beginner course: Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+
+## Games I like to play
+- Path Of Exile 1
+- Path Of Exile 2
+- No Rest For The Wicked
