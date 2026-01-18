@@ -9,7 +9,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my C# beginner Udemy course
 
 ## About Me
-I'm an lifelong software developer and tinkerer, interested in many other things, such as:
+I'm an lifelong software tinkerer, interested in many other things, such as:
 - Music production
 - Voiceovers 
 - Audio editing
@@ -17,11 +17,11 @@ I'm an lifelong software developer and tinkerer, interested in many other things
 
 I've also voiced commercials, corporate training and a few YouTube channels (as a Romanian Voiceover).
 
-Find me on Fiverr [here](https://www.fiverr.com/dan_munteanu/)
+Find me on [Fiverr here](https://www.fiverr.com/dan_munteanu/)
 
 ## Software Development 
 ### For Windows desktop, I use 
-- C# with .NET Core to create mostly WinForms apps
+- C# with .NET Core to create WinForms apps
 
 ### For web development, I use:
 - **Laravel** with **PHP** as the foundation for all my web apps
