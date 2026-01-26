@@ -6,7 +6,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
 - [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - Simple C# app to archive the saves folder for No Rest For The Wicked (Breach Refined). *I wrote this after my saves were corrupted upon the game failing.*
-- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my ***Windows Desktop Application Development with C# and .NET*** beginner course on Udemy.
+- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my **Windows Desktop Application Development with C# and .NET** beginner course on Udemy.
 
 ## About Me
 I'm an lifelong software tinkerer, interested in many other things, such as:
