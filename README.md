@@ -9,8 +9,8 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my **Windows Desktop Application Development with C# and .NET** beginner course on Udemy.
 
 ## Currently Working On:
-[Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
-This is a course designed to help beginners with learning desktop application development. 
+* [Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+This is a course designed to help beginners learn Windows desktop application development using C# and Windows forms.
 I am currently working on new lectures to add to the course.
 
 ## About Me
