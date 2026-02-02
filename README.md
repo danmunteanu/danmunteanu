@@ -15,18 +15,18 @@ I am currently working on new lectures to add to the course.
 
 ## About Me
 I'm an lifelong software tinkerer. I am also interested in other things, such as:
-- Music production
 - Voiceovers 
-- Audio editing
+- Audio Editing
+- Music Production
 - Course Publishing
 - Open Source Software
 
 I've voiced a few commercials, corporate training videos and even a couple of YouTube channels (as a Romanian Voiceover).
 
-Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) on Fiverr.
+Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) (on Fiverr).
 
 ## Software Development 
-### On Windows, I develop Desktop Applications with:
+### On Windows, I develop desktop applications with:
 - C# and .NET Core
 
 ### For Web Development, I use:
