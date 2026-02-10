@@ -28,6 +28,7 @@ Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/
 ## Software Development 
 ### Windows Desktop Applications:
 - C# and .NET Core
+- Windows Forms
 
 ### Web Development
 - **Laravel** as my go-to framework for all my web apps
