@@ -10,8 +10,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## Currently Working On:
 * [Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
-, a course designed to help beginners learn Windows desktop application development using C# and Windows forms.
-I am currently working on new lectures to add to the course.
+, a course designed to help beginners learn Windows Desktop Application Development using C# and Windows forms.
 
 ## About Me
 I'm an lifelong software tinkerer. I am also interested in other things, such as:
