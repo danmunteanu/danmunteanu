@@ -2,8 +2,8 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## My Best Repo's:
 ### Companion Apps for the *Windows Desktop Application Development with C# and .NET* course
-- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER)
-- [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS)
+- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Yaml parser app to read and write frontmatter data
+- [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS) - Drawing pretty fractals (Mandelbrot set)
 
 ### Personal Apps
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple multi-threaded raytracing app written in pure C# for Windows desktop 
