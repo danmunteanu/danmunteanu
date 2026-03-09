@@ -2,7 +2,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## My Best Repo's:
 ### Companion Apps for the *Windows Desktop Application Development with C# and .NET* course
-- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Yaml parser app to read and write frontmatter data
+- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Yaml parser app to read and write frontmatter data for Jekyll-based static sites
 - [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS) - Drawing pretty fractals (Mandelbrot set)
 
 ### Personal Apps
