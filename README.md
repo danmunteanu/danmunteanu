@@ -1,12 +1,16 @@
 Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## My Best Repo's:
+### Companion Apps for [Windows Desktop Application Development with C# and .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER)
+- [CS Fractal Graphics]()
+
+### Personal Apps
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple multi-threaded raytracing app written in pure C# for Windows desktop 
 - [MemphisNow](https://github.com/danmunteanu/MEMPHIS_NOW) - An app written in C++ and Qt 6 to rename mp3 files in a visual way
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
 - [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - Simple C# app to archive the saves folder for No Rest For The Wicked (Breach Refined). *I wrote this after my saves were corrupted upon the game failing.*
-- [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my **Windows Desktop Application Development with C# and .NET** beginner course on Udemy.
 
 ## Currently Working On:
 * [Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
