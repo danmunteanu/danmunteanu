@@ -1,7 +1,7 @@
 Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## My Best Repo's:
-### Companion Apps for the **Desktop Application Development with C# and .NET** course on Udemy
+### Companion Apps for the *Desktop Application Development with C# and .NET* course on Udemy
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER)
 - [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS)
 
