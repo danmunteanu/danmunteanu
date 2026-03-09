@@ -1,7 +1,7 @@
 Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 
 ## My Best Repo's:
-### Companion Apps for the *Desktop Application Development with C# and .NET* course on Udemy
+### Companion Apps for the *Windows Desktop Application Development with C# and .NET* course
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER)
 - [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS)
 
@@ -13,7 +13,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 
 ## Currently Working On:
-* [Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+* [Windows Desktop Application Development with C# and .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
 , a course designed to help beginners learn Windows Desktop Application Development using C# and Windows forms.
 
 ## About Me
