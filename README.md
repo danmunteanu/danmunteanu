@@ -17,16 +17,15 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 , a course designed to help beginners learn Windows Desktop Application Development using C# and Windows forms.
 
 ## About Me
-I'm an lifelong software tinkerer. I am also interested in other things, such as:
-- Voiceovers 
+I'm an lifelong software tinkerer and learner. I am also interested in other things, such as:
+- Voiceovers (Romanian)
 - Audio Editing
-- Music Production
-- Course Publishing
-- Open Source Software
+- Video Editing (with DaVinci Resolve 20)
+- [Breaking No Rest For The Wicked](https://www.youtube.com/@RealityFrameworks)
 
 I've voiced a few commercials, corporate training videos and even a couple of YouTube channels (as a Romanian Voiceover).
 
-Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) (on Fiverr).
+Hire me as a Freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) (on Fiverr).
 
 ## Software Development 
 ### Windows Desktop Applications:
@@ -39,12 +38,14 @@ Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/
 - **Vue.js** and **PrimeVue** for building web user interfaces
 - **Tailwind** and **Bootstrap** for styling
 
-### Experimenting + Learning:
+### Experimenting With and Learning:
 - **Filament** for server-side UI rendering
 - **three.js** for creating 3D web apps	
+- **NativePHP** to create Laravel-based mobile apps
 
 ## Blogging
-Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical in nature, some are personal.
+Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical in nature, some are personal, some are gaming-related.
+
 Here are a few of my best articles:
 - [Installing ffmpeg for yt-dlp](https://www.realityframeworks.com/how-to-install-ffmpeg-for-yt-dlp/)
 - [Installing boost for msvc and gcc on Windows](https://www.realityframeworks.com/install-boost-on-windows-for-msvc-gcc/)
@@ -52,9 +53,6 @@ Here are a few of my best articles:
 - [Creating a video from a single image with ffmpeg](https://www.realityframeworks.com/ffmpeg-create-video-from-single-image/)
 - [Why Notepad++ is awesome!](https://www.realityframeworks.com/notepad-plus-plus-is-awesome/)
 - [App journal - Adding YAML to markdown files](https://www.realityframeworks.com/csharp-add-yaml-to-files/)
-
-## Published Courses 
-- [C# Beginner Course: Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
 
 ## Games I enjoy playing on a regular basis 
 - Path Of Exile 1
