@@ -1,4 +1,4 @@
-Hi, I'm Dan Munteanu. Here are a few things I’ve built:
+Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below you will find a few things I've built.
 
 ## My Best Repo's:
 ### Companion Apps for the *Windows Desktop Application Development with C# and .NET* course
@@ -12,7 +12,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 
-## Currently Working On:
+## I'm Currently Working On:
 * [Windows Desktop Application Development with C# and .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
 , a course designed to help beginners learn Windows Desktop Application Development using C# and Windows forms.
 
@@ -20,12 +20,12 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 I'm an lifelong software tinkerer and learner. I am also interested in other things, such as:
 - Voiceovers (Romanian)
 - Audio Editing
-- Video Editing (with DaVinci Resolve 20)
-- [Breaking No Rest For The Wicked](https://www.youtube.com/@RealityFrameworks)
+- Editing Video (with DaVinci Resolve 20)
+- [No Rest For The Wicked](https://www.youtube.com/@RealityFrameworks)
 
-I've voiced a few commercials, corporate training videos and even a couple of YouTube channels (as a Romanian Voiceover).
+As a Voiceover, I've voiced a few commercials, corporate training videos and even a couple of YouTube channels.
 
-Hire me as a Freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) (on Fiverr).
+You can find me as a [Romanian Voiceover on Fiverr](https://www.fiverr.com/dan_munteanu/).
 
 ## Software Development 
 ### Windows Desktop Applications:
