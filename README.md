@@ -18,14 +18,16 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 
 ## About Me
 I'm an lifelong software tinkerer and learner. I am also interested in other things, such as:
-- Voiceovers (Romanian)
+- [Recording Romanian Voiceovers](https://www.youtube.com/@DanMunteanuVoce)
 - Audio Editing
 - Video Editing (with DaVinci Resolve 20)
 - [No Rest For The Wicked (Out Of Bounds)](https://www.youtube.com/@RealityFrameworks) - Playing and finding out-of-bounds areas
 
-As a Voiceover, I've voiced a few commercials, corporate training videos and even a couple of YouTube channels.
-
-You can find me as a [Romanian Voiceover on Fiverr](https://www.fiverr.com/dan_munteanu/).
+As a [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/), I've voiced:
+* Commercials
+* Corporate Training videos
+* YouTube channels
+* A podcast
 
 ## Software Development 
 ### Windows Desktop Applications:
