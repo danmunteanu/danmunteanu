@@ -21,13 +21,13 @@ I'm an lifelong software tinkerer and learner. I am also interested in other thi
 - [Recording Romanian Voiceovers](https://www.youtube.com/@DanMunteanuVoce)
 - Audio Editing
 - Video Editing (with DaVinci Resolve 20)
-- [No Rest For The Wicked (Out Of Bounds)](https://www.youtube.com/@RealityFrameworks) - Playing and finding out-of-bounds areas
+- [No Rest For The Wicked Exploration](https://www.youtube.com/@RealityFrameworks) - Playing and finding out-of-bounds areas
 
 As a [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/), I've voiced:
 * Commercials
 * Corporate Training videos
 * YouTube channels
-* A podcast
+* Personal development podcast
 
 ## Software Development 
 ### Windows Desktop Applications:
@@ -35,12 +35,11 @@ As a [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/), I've voiced:
 - Windows Forms
 
 ### Web Development
-- **Laravel** as my go-to framework for all my web apps
+- **Laravel** as my go-to framework for web development 
 - **MySQL**/**MariaDB** and **SQLite** for db storage
-- **Vue.js** and **PrimeVue** for building web user interfaces
-- **Tailwind** and **Bootstrap** for styling
+- **Vue.js**, **PrimeVue**, **Bootstrap** and **Tailwind** for building responsive web user interfaces
 
-### Experimenting With and Learning:
+### Experimenting With:
 - **Filament** for server-side UI rendering
 - **three.js** for creating 3D web apps	
 - **NativePHP** to create Laravel-based mobile apps
